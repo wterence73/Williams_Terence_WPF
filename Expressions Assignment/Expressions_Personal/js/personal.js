@@ -42,10 +42,16 @@ alert("The length and width has been determined");
 
 var length = 20;
 
+
+//Create a variable for the width
+
 var width = 10;
 
 //Calculate the square footage
-var squareFootage = length * width ;
+var squarefootage = length * width ;
+console.log(squarefootage);
 
+//Alert user with their square footage
+alert("");
 
 
