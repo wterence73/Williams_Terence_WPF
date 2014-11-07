@@ -30,4 +30,22 @@ var poolWidth = prompt("What is your desired pool width");
 console.log(poolWidth);
 
 
+//Let the user know the pool length and width has been determined
+//Alert the user
+alert("The length and width has been determined");
+
+
+//Give user total square footage
+//Length * width is the total square footage
+
+//Create a variable for the length
+
+var length = 20;
+
+var width = 10;
+
+//Calculate the square footage
+var squareFootage = length * width ;
+
+
 
