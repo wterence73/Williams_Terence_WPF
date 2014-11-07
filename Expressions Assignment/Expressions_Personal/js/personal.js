@@ -52,6 +52,6 @@ var squarefootage = length * width ;
 console.log(squarefootage);
 
 //Alert user with their square footage
-alert("");
+alert("+squarefootage+");
 
 
