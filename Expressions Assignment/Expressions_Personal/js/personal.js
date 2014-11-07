@@ -5,6 +5,29 @@ Terence Williams
  11-06-14
  */
 
-alert("Testing 1,2,3");
+
+//Create a js file that will determined the build size of an outdoor pool
+
+//Greet the user
+//Alert the user
+alert("Welcome to the Pool Designer");
+
+
+//Ask the user how long do they want the pool to be
+//Create a variable to catch their answer
+
+var poolLength  = prompt("What length do you want pool");
+
+//Console.log out the response
+console.log(poolLength);
+
+//Ask the user what is the width of the desired pool
+//Create a variable to catch their answer
+
+var poolWidth = prompt("What is your desired pool width");
+
+//Console.log out the response
+console.log(poolWidth);
+
 
 
