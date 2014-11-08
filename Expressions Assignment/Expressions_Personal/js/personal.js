@@ -67,6 +67,14 @@ var poolBuild = 10.00;
 var poolBuild = 10.00 * squareFootage ;
 console.log(poolBuild);
 
+//Alert user with their project cost
+
+var poolBuild = 10.00 * squareFootage
+alert(poolBuild)
+
+
+
+
 
 
 
