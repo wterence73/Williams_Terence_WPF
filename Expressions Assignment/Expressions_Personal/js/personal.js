@@ -81,8 +81,7 @@ console.log(poolDepth);
 
 //Add depth to see what is a good depth
 
-var waterDepth = 2 + 2 = 4;
-alert(waterDepth);
+var depth = 
 
 
 
