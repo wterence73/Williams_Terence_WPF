@@ -59,10 +59,12 @@ alert(squareFootage)
 //Alert the user with the cost per square footage
 alert("The Cost for a pool build is $10.00 per Square Foot");
 
-var poolBuild = $10.00;
+//Create a variable for poolBuild
+
+var poolBuild = 10.00;
 
 //Calculate the total cost per square foot
-var poolBuild = $10 * squareFootage ;
+var poolBuild = 10.00 * squareFootage ;
 console.log(poolBuild);
 
 
