@@ -56,6 +56,11 @@ console.log(squarefootage);
 var squareFootage = length * width
 alert(squareFootage)
 
+//Alert the user with the cost per square footage
+alert("The Cost for a pool build is $10.00 per Square Foot");
+
+
+
 
 
 
