@@ -72,6 +72,15 @@ console.log(poolBuild);
 var poolBuild = 10.00 * squareFootage
 alert(poolBuild)
 
+//Ask the user what is the desired pool depth
+
+var poolDepth = prompt("What is your desired pool depth?");
+
+//Console.log out the response
+console.log(poolDepth);
+
+
+
 
 
 
