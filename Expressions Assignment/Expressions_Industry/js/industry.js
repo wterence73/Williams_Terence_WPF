@@ -32,6 +32,12 @@ alert(total)
 //Alert user total
 alert ("Your depreciation is an estimated $3.68");
 
+//Alert user about turning depreciation into weekly gross margin
+alert ("We will now turn depreciation into weekly gross margin ");
+
+
+
+
 
 
 
