@@ -53,6 +53,14 @@ console.log(grossMargin) ;
 var grossMargin = weeklyRate - weeklyDepreciation
 alert(grossMargin)
 
+//Ask user if they would like to know the potential rental revenue on the product
+
+var potentialRevenue = prompt("Would you like to know the potential revenue?");
+
+//Console.log out the response
+console.log(potentialRevenue)
+
+
 
 
 
