@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="166dd634-84c5-477f-aa68-9947df8705cb" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Expressions Assignment/Expressions_Personal/js/personal.js" afterPath="$PROJECT_DIR$/Expressions Assignment/Expressions_Personal/js/personal.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Williams_Terence_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,8 +29,8 @@
       <file leaf-file-name="personal.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Expressions Assignment/Expressions_Personal/js/personal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2521739" vertical-offset="816" max-vertical-offset="1545">
-              <caret line="66" column="52" selection-start-line="66" selection-start-column="52" selection-end-line="66" selection-end-column="52" />
+            <state vertical-scroll-proportion="1.3695652" vertical-offset="585" max-vertical-offset="1845">
+              <caret line="102" column="0" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -391,8 +390,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Expressions Assignment/Expressions_Personal/js/personal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2521739" vertical-offset="816" max-vertical-offset="1545">
-          <caret line="66" column="52" selection-start-line="66" selection-start-column="52" selection-end-line="66" selection-end-column="52" />
+        <state vertical-scroll-proportion="1.3695652" vertical-offset="585" max-vertical-offset="1845">
+          <caret line="102" column="0" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

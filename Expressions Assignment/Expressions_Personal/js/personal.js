@@ -69,7 +69,7 @@ console.log(poolBuild);
 
 //Alert user with their project cost
 
-var poolBuild = 10.00 * squareFootage
+var poolBuild = 10.00 * squarefootage + ("Dollars")
 alert(poolBuild)
 
 //Ask the user what is the desired pool depth
@@ -79,7 +79,27 @@ var poolDepth = prompt("What is your desired pool depth?");
 //Console.log out the response
 console.log(poolDepth);
 
-//Add depth to see what is a good depth
+//Alert user project complete
+alert("Your project is now complete!")
+
+
+
+//User has set amount of money for a project
+
+var projectCost = prompt("How much money do you have for a future project?");
+
+var money = 6000
+
+var poolBuild = 10.00
+
+//Alert user with future project size
+
+var newProject = money / poolBuild + ("Sqft")
+alert(newProject)
+
+
+
+
 
 
 
