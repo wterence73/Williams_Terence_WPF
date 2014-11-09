@@ -90,6 +90,9 @@ var differentMoon = 238900
 var newTotal = moon + differentMoon
 alert(newTotal)
 
+//Ask user to enter nearest planet
+
+var nearestplanet = prompt("What is the nearest planet?");
 
 
 
