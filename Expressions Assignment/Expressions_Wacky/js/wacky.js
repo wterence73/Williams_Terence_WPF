@@ -99,5 +99,8 @@ var nearestplanet = prompt("What is the nearest planet?");
 //Alert user is complete
 alert("You have now found what you need to touch the moon!");
 
+//Let user know we appreciate him
+
+alert("Thanks and I look forward to our next wacky adventure!");
 
 
