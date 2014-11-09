@@ -79,6 +79,17 @@ alert(newTotal)
 
 alert("What if we added the distance of the moon to itself? " + "What planet would be the nearest?");
 
+//Create a variable for the new operation
+
+var moon = 238900
+
+var differentMoon = 238900
+
+//Calculate the new total
+
+var newTotal = moon + differentMoon
+alert(newTotal)
+
 
 
 
