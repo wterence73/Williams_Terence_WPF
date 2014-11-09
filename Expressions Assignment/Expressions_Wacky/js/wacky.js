@@ -68,3 +68,8 @@ var newNumber = prompt("What is your current speed?");
 //Console.log out the response
 console.log(newNumber)
 
+//Calculate moonTime
+
+var newTotal = moonDistance / newNumber;
+alert(newTotal)
+
