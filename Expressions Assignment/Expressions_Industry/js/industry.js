@@ -23,10 +23,12 @@ alert("Let's begin our depreciation exercise");
 
 //Array
 
-var companyProduct = [Sofa, TV, Recliner];
+var sofa  = [250, 68];
 
-var product = Sofa[0]
-console.log(total);
+var total = sofa[0] / sofa[1]
+console.log(total)
+
+
 
 
 
