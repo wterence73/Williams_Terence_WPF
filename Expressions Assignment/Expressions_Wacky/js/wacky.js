@@ -94,5 +94,10 @@ alert(newTotal)
 
 var nearestplanet = prompt("What is the nearest planet?");
 
+//Create variable for name
+
+//Alert user is complete
+alert("You have now found what you need to touch the moon!");
+
 
 
