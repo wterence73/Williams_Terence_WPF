@@ -70,6 +70,8 @@ console.log(newNumber)
 
 //Calculate moonTime
 
-var newTotal = moonDistance / newNumber;
+var newmoonDistance = 238900;
+
+var newTotal = newmoonDistance / newNumber
 alert(newTotal)
 
