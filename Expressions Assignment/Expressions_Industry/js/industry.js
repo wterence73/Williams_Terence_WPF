@@ -23,9 +23,11 @@ alert("Let's begin our depreciation exercise");
 
 //Array
 
+alert("Sofa cost divided by the term=")
+
 var sofa  = [250, 68];
 
-var total = sofa[0] / sofa[1]  ("Sofa cost divided by the term=")
+var total = sofa[0] / sofa[1]
 console.log(total);
 alert(total)
 
