@@ -14,5 +14,9 @@ var wackyQue = prompt("How would you like to touch the moon?");
 //Console.log out the response
 console.log(wackyQue)
 
+//Ask user for name
+
+alert("What is your name?");
+
 
 
