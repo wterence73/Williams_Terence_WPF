@@ -64,7 +64,7 @@ alert("The Cost for a pool build is $10.00 per Square Foot");
 var poolBuild = 10.00;
 
 //Calculate the total cost per square foot
-var poolBuild = 10.00 * squareFootage + ;
+var poolBuild = 10.00 * squarefootage + ("Dollars");
 console.log(poolBuild);
 
 //Alert user with their project cost
