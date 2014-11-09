@@ -50,3 +50,11 @@ console.log(timeNumber)
 var total = speedNumber * timeNumber
 alert(total)
 
+//Ask user a calculation question
+
+alert("What if we have the moon's distance from Earth but only the speed rate? " + "How would we calculate this?");
+
+
+
+
+
