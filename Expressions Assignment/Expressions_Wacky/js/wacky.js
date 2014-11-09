@@ -11,9 +11,6 @@
 
 var wackyQue = prompt("How would you like to touch the moon?");
 
-//Console.log out the response
-console.log(wackyQue)
-
 //Ask user for name
 
 var nameQue = prompt('What is your name?');
@@ -22,11 +19,11 @@ var nameQue = prompt('What is your name?');
 console.log(name)
 
 //Alert user we're about to beginning of the exercise
-alert("Let's get off to an interesting exploration!");
+alert("Welcome " +nameQue+" ! Let's get off to an interesting exploration!");
 
 //Inform user of needed information
 
-alert("We will be using the formula distance= rate * time to start." + "Now, how far is the moon from the Earth?");
+alert("We will be using the formula distance= rate * time to start. " + "Now, how far is the moon from the Earth?");
 
 alert("The moon is a whooping 238,900 miles!")
 
