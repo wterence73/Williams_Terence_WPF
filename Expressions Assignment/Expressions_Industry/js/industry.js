@@ -11,6 +11,17 @@
 //Alert the user
 alert("Welcome to The Willis Trade Company");
 
+//Ask the name of the user
+
+var userName = prompt("What is your name?");
+
+//Console.log out the response
+console.log(userName)
+
+
+
+
+
 
 
 
