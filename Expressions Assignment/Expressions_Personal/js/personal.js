@@ -53,7 +53,7 @@ console.log(squarefootage);
 
 //Alert user with their square footage
 
-var squareFootage = length * width
+var squareFootage = length * width + ("SqFt")
 alert(squareFootage)
 
 //Alert the user with the cost per square footage
@@ -64,7 +64,7 @@ alert("The Cost for a pool build is $10.00 per Square Foot");
 var poolBuild = 10.00;
 
 //Calculate the total cost per square foot
-var poolBuild = 10.00 * squareFootage ;
+var poolBuild = 10.00 * squareFootage + ;
 console.log(poolBuild);
 
 //Alert user with their project cost
@@ -81,7 +81,7 @@ console.log(poolDepth);
 
 //Add depth to see what is a good depth
 
-var depth = 
+
 
 
 
