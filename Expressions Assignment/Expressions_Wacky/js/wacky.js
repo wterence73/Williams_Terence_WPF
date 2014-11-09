@@ -75,5 +75,10 @@ var newmoonDistance = 238900;
 var newTotal = newmoonDistance / newNumber
 alert(newTotal)
 
+//Ask the user a question about planets and moon relation
+
+alert("What if we added the distance of the moon to itself? " + "What planet would be the nearest?");
+
+
 
 
