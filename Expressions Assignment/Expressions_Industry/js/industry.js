@@ -26,7 +26,16 @@ alert("Let's begin our depreciation exercise");
 var sofa  = [250, 68];
 
 var total = sofa[0] / sofa[1]
-console.log(total)
+console.log(total);
+alert(total)
+
+//Alert user total
+alert ("Your depreciation is an estimated $3.68");
+
+
+
+
+
 
 
 
