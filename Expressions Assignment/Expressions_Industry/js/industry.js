@@ -35,18 +35,23 @@ alert ("Your depreciation is an estimated $3.68");
 //Alert user about turning depreciation into weekly gross margin
 alert ("We will now turn depreciation into weekly gross margin ");
 
-//Create a variable for weeklyRate
+//Create a variable for Rate
 
-var weeklyRate = $13.99;
+var rate = 13.99;
 
-//Create a variable for weeklyDeprciation
+//Create a variable for Depreciation
 
-var weeklyDepreciation = $3.68;
+var Depreciation = 3.68;
 
 //Calculate grossMargin
 
-var grossMargin = weeklyRate * weeklyDepreciation ;
-console.log(grossMargin);
+var grossMargin = weeklyRate - weeklyDepreciation ;
+console.log(grossMargin) ;
+
+//Alert user their grossMargin
+
+var grossMargin = weeklyRate - weeklyDepreciation
+alert(grossMargin)
 
 
 
