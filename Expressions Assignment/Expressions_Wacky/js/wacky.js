@@ -75,3 +75,5 @@ var newmoonDistance = 238900;
 var newTotal = newmoonDistance / newNumber
 alert(newTotal)
 
+
+
