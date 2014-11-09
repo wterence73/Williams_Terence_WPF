@@ -47,6 +47,8 @@ var weeklyDepreciation = 3.68;
 
 //Calculate grossMargin
 
+alert("Your gross margin is weekly cost - weekly depreciation")
+
 var grossMargin = weeklyRate - weeklyDepreciation ;
 console.log(grossMargin) ;
 
