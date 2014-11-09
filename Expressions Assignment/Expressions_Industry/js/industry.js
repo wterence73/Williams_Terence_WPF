@@ -18,6 +18,14 @@ var userName = prompt("What is your name?");
 //Console.log out the response
 console.log(userName)
 
+//Begin exercise
+alert("Let's begin our depreciation exercise");
+
+//Array [ "Sofa", "TV", "Recliner"] //0,1,2
+
+
+
+
 
 
 
