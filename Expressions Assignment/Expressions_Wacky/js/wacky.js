@@ -54,7 +54,17 @@ alert(total)
 
 alert("What if we have the moon's distance from Earth but only the speed rate? " + "How would we calculate this?");
 
+//Create variable for new operation
 
+var moonTime = moonDistance / speedNumber;
 
+//Alert user with moon's distance from Earth
+alert("The moon is 238,900 from Earth.");
 
+//Ask user for the ideal speed
+
+var newNumber = prompt("What is your current speed?");
+
+//Console.log out the response
+console.log(newNumber)
 
