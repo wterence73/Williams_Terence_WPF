@@ -85,6 +85,12 @@ alert(potentialRevenue)
 //Inform user about understanding implied depreciation
 alert("Understanding implied depreciation will net you some very good income potential");
 
+//Get user feedback
+
+var userFeedback = prompt("Did you enjoy the exercise?");
+
+//Console.log out the response
+console.log(userFeedback);
 
 
 
