@@ -21,7 +21,12 @@ console.log(userName)
 //Begin exercise
 alert("Let's begin our depreciation exercise");
 
-//Array [ "Sofa", "TV", "Recliner"] //0,1,2
+//Array
+
+var companyProduct = [Sofa, TV, Recliner];
+
+var product = Sofa[0]
+console.log(total);
 
 
 
