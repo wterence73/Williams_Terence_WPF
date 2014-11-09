@@ -45,5 +45,8 @@ var timeNumber = prompt("What is your current time");
 //Console.log out the response
 console.log(timeNumber)
 
+//Calculate total distance
 
+var total = speedNumber * timeNumber
+alert(total)
 
