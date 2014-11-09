@@ -60,6 +60,28 @@ var potentialRevenue = prompt("Would you like to know the potential revenue?");
 //Console.log out the response
 console.log(potentialRevenue)
 
+//Create variable for weekly cost
+
+var weeklyRate = 13.99
+
+//Create variable for term on rent
+
+var term = 68
+
+//Calculate total potential revenue
+
+var potentialRevenue = weeklyRate * term;
+console.log(potentialRevenue);
+
+//Alert user with their total revenue
+
+var potentialRevenue = weeklyRate * term +  "Dollars"
+alert(potentialRevenue)
+
+
+
+
+
 
 
 
