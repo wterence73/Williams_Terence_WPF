@@ -9,7 +9,7 @@
 
 //Create variable to involve user
 
-var wackyQue = prompt("How would you like to touch the moon?");
+alert("How would you like to touch the moon?");
 
 //Ask user for name
 
@@ -19,7 +19,7 @@ var nameQue = prompt('What is your name?');
 console.log(name)
 
 //Alert user we're about to beginning of the exercise
-alert("Welcome " +nameQue+" ! Let's get off to an interesting exploration!");
+alert("Welcome " +nameQue+"! Let's get off to an interesting exploration!");
 
 //Inform user of needed information
 
@@ -27,7 +27,16 @@ alert("We will be using the formula distance= rate * time to start. " + "Now, ho
 
 alert("The moon is a whooping 238,900 miles!")
 
-//Create variables for distance, rate, and time
+//Create variable for distance
+
+var moonDistance = 238,900
+
+//Calculate the moon distance
+
+var distance = rate * time ;
+
+
+
 
 
 
