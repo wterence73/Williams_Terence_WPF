@@ -47,14 +47,14 @@ var weeklyDepreciation = 3.68;
 
 //Calculate grossMargin
 
-alert("Your gross margin is weekly cost - weekly depreciation")
+alert("Weekly cost - weekly depreciation =")
 
 var grossMargin = weeklyRate - weeklyDepreciation ;
 console.log(grossMargin) ;
 
 //Alert user their grossMargin
 
-var grossMargin = weeklyRate - weeklyDepreciation
+var grossMargin = weeklyRate - weeklyDepreciation +  "Dollars"
 alert(grossMargin)
 
 //Ask user if they would like to know the potential rental revenue on the product
