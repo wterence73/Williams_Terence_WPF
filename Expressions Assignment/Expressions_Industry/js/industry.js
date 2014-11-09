@@ -82,6 +82,11 @@ console.log(potentialRevenue);
 var potentialRevenue = weeklyRate * term +  "Dollars"
 alert(potentialRevenue)
 
+//Inform user about understanding implied depreciation
+alert("Understanding implied depreciation will net you some very good income potential");
+
+
+
 
 
 
