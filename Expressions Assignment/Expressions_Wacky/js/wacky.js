@@ -27,16 +27,10 @@ alert("We will be using the formula distance= rate * time to start. " + "Now, ho
 
 alert("The moon is a whooping 238,900 miles!")
 
-//Create variable for distance
+//Create a variable asking for speed
 
-var moonDistance = 238,900
+var speedNumber = prompt("What is your current rate of speed?");
 
-//Calculate the moon distance
-
-var distance = rate * time ;
-
-
-
-
-
+//Console.log out the response
+console.log(speedNumber)
 
