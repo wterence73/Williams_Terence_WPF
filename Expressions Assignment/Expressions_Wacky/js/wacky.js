@@ -30,5 +30,7 @@ alert("We will be using the formula distance= rate * time to start." + "Now, how
 
 alert("The moon is a whooping 238,900 miles!")
 
+//Create variables for distance, rate, and time
+
 
 
