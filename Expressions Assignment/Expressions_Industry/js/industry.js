@@ -92,6 +92,9 @@ var userFeedback = prompt("Did you enjoy the exercise?");
 //Console.log out the response
 console.log(userFeedback);
 
+alert("Thank you for participating");
+
+
 
 
 
