@@ -16,7 +16,15 @@ console.log(wackyQue)
 
 //Ask user for name
 
-alert("What is your name?");
+var nameQue = prompt('What is your name?');
+
+//Console.log out the response
+console.log(name)
+
+//Alert user we're about to beginning of the exercise
+alert("Let's get off to an interesting exploration!");
+
+
 
 
 
