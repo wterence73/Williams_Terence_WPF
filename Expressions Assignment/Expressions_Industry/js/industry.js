@@ -37,11 +37,11 @@ alert ("We will now turn depreciation into weekly gross margin ");
 
 //Create a variable for Rate
 
-var rate = 13.99;
+var weeklyRate = 13.99;
 
 //Create a variable for Depreciation
 
-var Depreciation = 3.68;
+var weeklyDepreciation = 3.68;
 
 //Calculate grossMargin
 
