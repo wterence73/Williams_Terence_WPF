@@ -26,4 +26,13 @@ var emails = prompt("Would you like to sign up?")
 //Console.log out the response
 console.log(emails)
 
+//Give customer opportuntiy to sign up or not
+//Give a variable for answer
+
+var emailAnswer = yes;
+var noemailAnswer = no;
+
+
+
+if(true){ the customer is taken to the email sign up();}
 
