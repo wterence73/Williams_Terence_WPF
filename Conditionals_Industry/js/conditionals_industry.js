@@ -34,5 +34,6 @@ var noemailAnswer = no;
 
 
 
-if(true){ the customer is taken to the email sign up();}
+if(emailAnswer == true){ emailAnswer = true; alert("You're being taken to signup page "); alert ("Enter your email to get great deals!")};
+
 
