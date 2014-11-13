@@ -30,9 +30,15 @@ console.log(emails)
 //Give a variable for answer
 
 var emailAnswer = yes;
-var noemailAnswer = no;
 
 
-if(emailAnswer == yes){ emailAnswer = yes; alert("You're being taken to signup page "); alert ("Enter your email to get great deals!")};
+if(emailAnswer === yes) { emailAnswer; }else{ console.log("Enter your email address");}
+
+console.log(emailAnswer);
+
+
+
+
+
 
 
