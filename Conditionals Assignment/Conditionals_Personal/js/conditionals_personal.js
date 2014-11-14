@@ -25,6 +25,20 @@ console.log(carLot)
 //Ask customer which cars are the top three favorites
 alert(" Which cars are your top three favorites?");
 
+//Customer has chosen three cars
+
+var carChevy = 1000.00
+var carFord = 15000.00
+var carBudget = 10000.00
+var carDodge = 7000.00
+
+//if the Dodge is preferrable
+if(carDodge <= carBudget){
+    //code to perform if answer is true
+    console.log("You have chosen a car within budget");
+
+}
+
 
 
 
