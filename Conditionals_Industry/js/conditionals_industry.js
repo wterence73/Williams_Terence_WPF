@@ -73,7 +73,15 @@ var adultRed = 10.00;
 var adultBlue = 12.00;
 var capmoneySaved = 25.00
 
+//if the red cap is less than 25.00 And if blue cap is less than 25.00
+if(adultBlue < capmoneySaved && adultRed < capmoneySaved){
+   //code perform if answer is true
+   console.log("You may chose either.");
+}
 
+//if either cap is over then cancel purchase
+
+(adultBlue && adultRed < capmoneySaved) ? console.log("You may continue purchase") : console.log("Cancel purchase please.")
 
 
 
