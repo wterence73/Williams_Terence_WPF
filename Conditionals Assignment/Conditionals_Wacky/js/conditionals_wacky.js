@@ -18,3 +18,17 @@ var bigJumps = prompt("How far would you like to jump?");
 //Console.log out the response
 console.log(bigJumps);
 
+//Array
+
+var myArray = ("10 feet, 100 feet, 1000 feet");
+
+if(myArray == 1){
+    //code to perform action if true, print out to console "I will jump at that height."
+    console.log("I will jump at that height.");
+}else{
+    //code will perform action if false
+    console.log("You can choose the height.");
+}
+
+
+
