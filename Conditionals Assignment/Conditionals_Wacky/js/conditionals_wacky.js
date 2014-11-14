@@ -38,5 +38,10 @@ if(myArray = 0,1,2){
     console.log("You can do all heights if you like!");
 }
 
+var touristExperiment = prompt("Will you jump more than 1000 feet?");
+
+//Console.log out the response
+console.log(touristExperiment);
+
 
 
