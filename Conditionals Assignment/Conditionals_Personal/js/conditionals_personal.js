@@ -22,6 +22,11 @@ var carLot = prompt("We have cars for all budgets " + "What is your budget like?
 //Console.log out response
 console.log(carLot)
 
+//Ask customer which cars are the top three favorites
+alert(" Which cars are your top three favorites?");
+
+
+
 
 
 
