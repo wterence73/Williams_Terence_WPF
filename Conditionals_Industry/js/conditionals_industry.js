@@ -69,6 +69,13 @@ if(adultSize == 10){
    console.log("Sorry this cap is too small.");
 }
 
+var adultRed = 10.00;
+var adultBlue = 12.00;
+var capmoneySaved = 25.00
+
+
+
+
 
 
 
