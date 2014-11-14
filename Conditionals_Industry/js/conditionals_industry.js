@@ -42,7 +42,13 @@ var enterEmail = prompt("Enter Email");
 //Console.log out response
 console.log(enterEmail)
 
+var emailDecline = prompt("Proceed to online shopping mall.");
 
+//If the customer would like to decline email sign up, print to console "You may proceed to the online shopping mall."
+if(emailDecline){
+   //code performed if the answer is no
+   console.log("You may proceed to the online shopping mall.");
+}
 
 
 
