@@ -45,7 +45,11 @@ if(carChevy <= carGmc){
     console.log("Let's test drive to see which is better.");
 }
 
-(carChevy && carGmc == carBudget) ? console.log("You can buy the Dodge for best deal.") : ("You can take anothe look around the lot")
+(carChevy && carGmc == carBudget) ? console.log("You can buy the Dodge for best deal.") : ("You can take another look around the lot")
+
+//Alert customer about their choice and rebates
+alert("You have chosen the Dodge. You will recieve a rebate of 1200.00");
+
 
 
 
