@@ -16,5 +16,5 @@ alert("We have any jump from 10 feet to 1000 feet jumps.");
 var bigJumps = prompt("How far would you like to jump?");
 
 //Console.log out the response
-console.log(bigjumps);
+console.log(bigJumps);
 
