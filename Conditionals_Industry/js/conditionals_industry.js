@@ -42,12 +42,31 @@ var enterEmail = prompt("Enter Email");
 //Console.log out response
 console.log(enterEmail)
 
-var emailDecline = prompt("Proceed to online shopping mall.");
+var emailDecline = alert("Proceed to online shopping mall.");
 
 //If the customer would like to decline email sign up, print to console "You may proceed to the online shopping mall."
 if(emailDecline){
    //code performed if the answer is no
-   console.log("You may proceed to the online shopping mall.");
+   alert("You may proceed to the online shopping mall.");
+}
+
+//Customer has added items to shopping cart
+//Ask customer if they would like to continue shopping
+
+alert("Would you like to continue shopping or check out?")
+
+//The customer has added a fitted baseball cap
+
+var adultSize = 10;
+var minSize = 5;
+
+//if the customer is an adult, print to console " The largest cap is for an adult size 10."
+if(adultSize == 10){
+   //code perform if answer is true
+   console.log("You may chose an adult size cap.")
+}else{
+   //code to perform if answer is false
+   console.log("Sorry this cap is too small.");
 }
 
 
