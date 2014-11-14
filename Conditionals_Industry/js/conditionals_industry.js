@@ -27,14 +27,17 @@ var emails = prompt("Would you like to sign up?")
 console.log(emails)
 
 //Give customer opportuntiy to sign up or not
-//Give a variable for answer
+//Give a variable for email sign up
 
-var emailAnswer = yes;
+var emailAnswer = yes
+
+//if the customer would like to sign up for email alerts, print to console " You may enter your email now."
+if(emailAnswer){
+  //code performed if the answer is yes
+  console.log("You may enter your email now.");
+}
 
 
-if(emailAnswer === yes) { emailAnswer; }else{ console.log("Enter your email address");}
-
-console.log(emailAnswer);
 
 
 
