@@ -45,6 +45,9 @@ if(carChevy <= carGmc){
     console.log("Let's test drive to see which is better.");
 }
 
+(carChevy && carGmc == carBudget) ? console.log("You can buy the Dodge for best deal.") : ("You can take anothe look around the lot")
+
+
 
 
 
