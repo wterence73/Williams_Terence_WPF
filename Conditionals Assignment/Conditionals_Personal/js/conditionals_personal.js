@@ -14,6 +14,15 @@ var carsAvailable = prompt("What make and model are you interested in?");
 //Console.log out the response
 console.log(carsAvailable);
 
+//Alert customer of whats available
+alert("We have all the latest models");
+
+var carLot = prompt("We have cars for all budgets " + "What is your budget like?")
+
+//Console.log out response
+console.log(carLot)
+
+
 
 
 
