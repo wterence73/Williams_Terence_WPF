@@ -18,7 +18,6 @@ console.log(welcomeMessage)
 //Alert customer that we have email updates
 alert("Our company has email alerts!");
 
-
 //Ask customer if they would like to sign up for email updates and sales
 
 var emails = prompt("Would you like to sign up?")
@@ -29,13 +28,21 @@ console.log(emails)
 //Give customer opportuntiy to sign up or not
 //Give a variable for email sign up
 
-var emailAnswer = yes
+var emailAnswer = true;
 
 //if the customer would like to sign up for email alerts, print to console " You may enter your email now."
 if(emailAnswer){
   //code performed if the answer is yes
   console.log("You may enter your email now.");
 }
+
+//Alert with email sign up
+var enterEmail = prompt("Enter Email");
+
+//Console.log out response
+console.log(enterEmail)
+
+
 
 
 
