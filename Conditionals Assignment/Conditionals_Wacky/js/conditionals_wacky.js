@@ -30,5 +30,8 @@ if(myArray == 1){
     console.log("You can choose the height.");
 }
 
+//Alert tourist that there's an age restriction on jump heights
+alert("There are age restrictions on jump heights. " + "How old are you?")
+
 
 
