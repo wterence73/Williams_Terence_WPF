@@ -17,7 +17,7 @@ console.log(carsAvailable);
 //Alert customer of whats available
 alert("We have all the latest models");
 
-var carLot = prompt("We have cars for all budgets " + "What is your budget like?")
+var carLot = prompt("We have cars for all budgets. " + "What is your budget like?")
 
 //Console.log out response
 console.log(carLot)
@@ -29,6 +29,7 @@ alert(" Which cars are your top three favorites?");
 
 var carChevy = 1000.00
 var carFord = 15000.00
+var carGmc =1000.00
 var carBudget = 10000.00
 var carDodge = 7000.00
 
@@ -39,7 +40,10 @@ if(carDodge <= carBudget){
 
 }
 
-
+if(carChevy <= carGmc){
+    //code to perform if answer is true
+    console.log("Let's test drive to see which is better.");
+}
 
 
 
