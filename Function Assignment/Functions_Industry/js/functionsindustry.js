@@ -18,7 +18,9 @@ var fileNumber = prompt("How many files are there to begin with?");
 console.log(fileNumber);
 
 //Alert with number of files
-alert(+fileNumber + "is the total of files that will be filed");
+alert(+fileNumber+ " is the total of files that will be filed.");
+
+
 
 
 
