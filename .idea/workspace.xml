@@ -65,6 +65,13 @@
         <option value="$PROJECT_DIR$/Conditionals Assignment/Conditionals_Personal/js/conditionals_personal.js" />
         <option value="$PROJECT_DIR$/Conditionals Assignment/Conditionals_Wacky/conditionals_wacky.html" />
         <option value="$PROJECT_DIR$/Conditionals Assignment/Conditionals_Wacky/js/conditionals_wacky.js" />
+        <option value="$PROJECT_DIR$/Function Assignment/Functions_Industry/index.html" />
+        <option value="$PROJECT_DIR$/Function Assignment/Functions_Industry/js/functionspersonal.js" />
+        <option value="$PROJECT_DIR$/Function Assignment/Functions_Personal/index.html" />
+        <option value="$PROJECT_DIR$/Function Assignment/Functions_Personal/js/functionspersonal.js" />
+        <option value="$PROJECT_DIR$/Function Assignment/Functions_Industry/js/functionsindustry.js" />
+        <option value="$PROJECT_DIR$/Function Assignment/Functions_Wacky/index.html" />
+        <option value="$PROJECT_DIR$/Function Assignment/Functions_Wacky/js/functionswacky.js" />
       </list>
     </option>
   </component>
@@ -505,6 +512,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.19565217" vertical-offset="180" max-vertical-offset="1455">
           <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Function Assignment/Functions_Industry/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Function Assignment/Functions_Personal/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Function Assignment/Functions_Personal/js/functionspersonal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Function Assignment/Functions_Industry/js/functionsindustry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Function Assignment/Functions_Wacky/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Function Assignment/Functions_Wacky/js/functionswacky.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
