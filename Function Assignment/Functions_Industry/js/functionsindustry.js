@@ -10,6 +10,13 @@
 
 alert("Track Destiny Filing Company");
 
+//Create variable asking for number of beginning files
+
+var fileNumber = prompt("How many files are there to begin with?");
+
+//Console.log out the response
+console.log(fileNumber);
+
 
 
 
