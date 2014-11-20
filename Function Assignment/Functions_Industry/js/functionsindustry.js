@@ -91,7 +91,7 @@ function calTotal(numberFiles, sectionSplit, overNumber){ //numberFiles=450, sec
 
 var total = function(numberFiles, overNumber){
 //code the function runs
-   var total = numberFiles - overNumber;
+   var total = numberFiles + overNumber;
    return total;
 }
 
