@@ -39,7 +39,7 @@ var sectionNumbers = 225;
 
 //If the number of files are equal to a number, print to console "All is accounted for."
 //If the files are total below 451
-if(numberFiles <= 450){
+if(numberFiles == 450){
    //All is accounted for.
    console.log("All the files are completely accounted for.");
 }else if(numberFiles > sectionNumbers){
@@ -49,6 +49,14 @@ if(numberFiles <= 450){
    //There must be a recount
    console.log("Please do a new count.");
 }
+
+//If the total count and section count is the same
+if(numberFiles && sectionNumbers == 450){
+  //All counts are off!
+  console.log("We have to redo the whole count!");
+}
+
+
 
 
 
