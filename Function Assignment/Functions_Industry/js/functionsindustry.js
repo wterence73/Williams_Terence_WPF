@@ -28,6 +28,21 @@ var fileCount = prompt("How many files will be in each section?");
 //Console.log out the response
 console.log(fileCount);
 
+//Alert user that we will decide according to the count
+alert("We will decide section count based on total count.");
+
+//Create variables for file count and section count
+
+var numberFiles = 450;
+var sectionCount = 2;
+var sectionNumbers = 225;
+
+
+
+
+
+
+
 
 
 
