@@ -78,10 +78,22 @@ console.log(total);
 
 calTotal(450,225,1);
 
-function calTotal(numberFiles, sectionSplit, overNumber){ //numberFiles=450, sectionSplit=225, overNumber=451
+function calTotal(numberFiles, sectionSplit, overNumber){ //numberFiles=450, sectionSplit=225, overNumber=1
   var sectionBuild = numberFiles / 2;
   console.log(sectionBuild);
 }
+
+//Anonymous function
+
+var calTotal = function(numberFiles, overNumber){
+//code the function runs
+   var total = numberFiles - overNumber;
+   return calTotal;
+}
+
+var a = calTotal(450, 1);
+
+console.log (a);
 
 
 
