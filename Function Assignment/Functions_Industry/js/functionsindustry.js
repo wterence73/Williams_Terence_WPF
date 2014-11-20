@@ -21,9 +21,9 @@ console.log(fileNumber);
 alert(+fileNumber+ " is the total of files that will be filed.");
 
 //The number of files will be divided into two sections A-M and N-Z
-//Alert user asking how many files will be in each section
 
-alert fileCount = prompt("How many files will be in each section?");
+//Alert user asking how many files will be in each section
+var fileCount = prompt("How many files will be in each section?");
 
 //Console.log out the response
 console.log(fileCount);
