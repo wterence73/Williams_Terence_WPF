@@ -72,6 +72,10 @@ if(numberFiles / 2 > sectionNumbers){
 
 var total;
 
+//Create a variable for overNumber
+
+var overNumber;
+
 //If the
 total = (numberFiles < sectionCount) ? "We're on the wrong track." : "We're on the right track!";
 console.log(total);
@@ -85,15 +89,15 @@ function calTotal(numberFiles, sectionSplit, overNumber){ //numberFiles=450, sec
 
 //Anonymous function
 
-var calTotal = function(numberFiles, overNumber){
+var total = function(numberFiles, overNumber){
 //code the function runs
    var total = numberFiles - overNumber;
-   return calTotal;
+   return total;
 }
 
-var a = calTotal(450, 1);
+var a = total(450, 1);
 
-console.log (a);
+console.log(a);
 
 
 
