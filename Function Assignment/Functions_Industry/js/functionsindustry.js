@@ -76,6 +76,12 @@ var total;
 total = (numberFiles < sectionCount) ? "We're on the wrong track." : "We're on the right track!";
 console.log(total);
 
+calTotal(450,225,1);
+
+function calTotal(numberFiles, sectionSplit, overNumber){ //numberFiles=450, sectionSplit=225, overNumber=451
+  var sectionBuild = numberFiles / 2;
+  console.log(sectionBuild);
+}
 
 
 
