@@ -56,6 +56,28 @@ if(numberFiles && sectionNumbers == 450){
   console.log("We have to redo the whole count!");
 }
 
+//If the total count is still off
+if(numberFiles -1 > sectionNumbers){
+   //files are still off
+ console.log("All the work has to be redone!");
+}
+
+//If counts are still off
+if(numberFiles / 2 > sectionNumbers){
+   //The count doesn't add up
+   console.log("The work may be wrong still!");
+}
+
+//Create a variable for total
+
+var total;
+
+//If the
+total = (numberFiles < sectionCount) ? "We're on the wrong track." : "We're on the right track!";
+console.log(total);
+
+
+
 
 
 
