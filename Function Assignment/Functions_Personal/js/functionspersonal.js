@@ -17,3 +17,10 @@ var calMonths = 12
 //Alert with number of months
 alert ("There are 12 months in a year.");
 
+//Ask user what month will we start
+
+var startMonth = prompt("What month will we start to keep track?");
+
+//Console.log out the response
+console.log(startMonth);
+
