@@ -24,3 +24,14 @@ var startMonth = prompt("What month will we start to keep track?");
 //Console.log out the response
 console.log(startMonth);
 
+//An Array
+
+var monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+
+console.log(monthNames);
+
+//Show the month chosen
+
+console.log(monthNames[5]);
+
+
