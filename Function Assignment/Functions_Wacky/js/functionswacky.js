@@ -15,3 +15,11 @@ var fishSize = prompt("Guess what is the largest fish ever?");
 
 //Console.log out the response
 console.log(fishSize);
+
+//Alert user with answer
+
+alert("The largest fish weighs 300 tons and is 800 feet long!");
+
+var fatFish;
+
+
