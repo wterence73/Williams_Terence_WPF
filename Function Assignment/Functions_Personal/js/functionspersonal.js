@@ -54,3 +54,25 @@ if(billOne + billThree < calIncome){
  console.log("We still have enough income available!");
 }
 
+function totalBills(billOne, billTwo, billThree){ //billOne=350, billTwo=560, billThree=900
+  var billTwo = billThree - billOne + 10;
+  console.log(billTwo);
+ }
+
+//Create variable for total
+
+var total;
+
+//Anonymous Function
+
+var total = function(billTwo, billThree){
+ //Code the function runs
+ var total = billThree + billOne;
+ return total;
+}
+
+var G = total(900, 350);
+
+console.log(G);
+
+
