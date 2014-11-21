@@ -49,7 +49,7 @@ console.log("There is not enough income!");
 if(billOne + billThree < calIncome){
   //Fair amount
   console.log("We are good with amount of income.");
-}else(billTwo > billOne < calIncome){
+}else if(billTwo > billOne < calIncome){
    //All is still good
  console.log("We still have enough income available!");
 }
