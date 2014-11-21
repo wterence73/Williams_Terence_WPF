@@ -32,6 +32,6 @@ console.log(monthNames);
 
 //Show the month chosen
 
-console.log(monthNames[5]);
+console.log(monthNames[startMonth]);
 
 
