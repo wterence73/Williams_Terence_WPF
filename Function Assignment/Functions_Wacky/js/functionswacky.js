@@ -27,10 +27,11 @@ var bigFish = 3000
 var largeFish = 5000
 var totalFish= 10000
 
-if(){
+if(lilFish + bigFish + largeFish == totalFish || totalFish >= largeFish + lilFish + bigFish){
     //All fish we have
     console.log("We have some great big fish!");
 }
+
 
 
 
