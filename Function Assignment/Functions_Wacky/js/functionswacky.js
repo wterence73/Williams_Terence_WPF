@@ -32,7 +32,10 @@ if(lilFish + bigFish + largeFish == totalFish || totalFish >= largeFish + lilFis
     console.log("We have some great big fish!");
 }
 
-
-
-
-
+if(largeFish - lilFish < bigFish){
+    //we have the desired sizes
+    console.log("We have all the desired fish!");
+}else if(bigFish + largeFish +2000){
+    //We need more large fish!
+    console.log("We need to order more large fish!");
+}
