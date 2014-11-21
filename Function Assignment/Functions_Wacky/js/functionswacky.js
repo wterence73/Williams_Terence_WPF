@@ -39,3 +39,17 @@ if(largeFish - lilFish < bigFish){
     //We need more large fish!
     console.log("We need to order more large fish!");
 }
+
+//Create variable for total fish
+
+var totalFish;
+
+var totalFish = function(largeFish, bigFish){
+    //Code the function runs
+    var totalFish = lilFish * 10;
+    return totalFish;
+}
+
+var fish = totalFish(9000, 10);
+console.log(fish);
+
