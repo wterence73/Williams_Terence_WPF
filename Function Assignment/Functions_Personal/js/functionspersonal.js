@@ -34,4 +34,14 @@ console.log(monthNames);
 
 console.log(monthNames[startMonth]);
 
+//Create a variables for bills and income
+
+var billOne = 350
+var billTwo = 560
+var billThree = 900
+var calIncome = 3000
+
+
+
+
 
